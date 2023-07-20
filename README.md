@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate frontend developer from Beijing, China</h3>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2018/10/swisscom-bear-run2.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3955272/animation.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maigouqi&label=Profile%20views&color=0e75b6&style=flat" alt="maigouqi" /> </p>
 
